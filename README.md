@@ -137,9 +137,10 @@ Authorization: Bearer JWT_TOKEN_AQUI
 1. Registre um novo usuário via `/api/register`
 2. Faça login e copie o token JWT
 3. Acesse `/api/protected` com o token no header:
-   ```
-   Authorization: Bearer SEU_TOKEN
-   ```
+```
+Authorization: Bearer SEU_TOKEN
+```
+
 
 ---
 
